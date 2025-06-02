@@ -75,5 +75,4 @@ Extras:
 ## Submission Instructions
 
 - Push your project to a private GitHub repository
-- Share the link with us once complete
 - We'll walk through your codebase together during your onboarding
